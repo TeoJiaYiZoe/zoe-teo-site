@@ -41,7 +41,7 @@ const Projects = () => {
               break;
           }
 
-          const imageUrl = `/images/${repo.name}-image.jpg`;
+          const imageUrl = `images/${repo.name}-image.jpg`;
 
           return {
             ...repo,
