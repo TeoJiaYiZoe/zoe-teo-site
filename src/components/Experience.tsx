@@ -42,13 +42,19 @@ function Experience() {
             <span className="text-right">Jan 2022 - Jan 2025</span>
             </div>
               <ul className="list-none mt-2">
-                <li>● Designed and developed scalable backend services as part of the Product Engineering team</li>
-                <li>● Architected and deployed a multi-cloud application across AWS and Azure to secure government systems</li>
-                <li>● Built scalable and secure RESTful APIs using Django REST Framework</li>
-                <li>● Automated infrastructure provisioning and configuration management using Terraform</li>
-                <li>● Fine-tuned a Large Language Model (LLM) for support incident management</li>
-                <li>● Developed backend integration with AWS Config for compliance monitoring</li>
-                <li>● Implemented Elasticsearch for application monitoring to enhance operational efficiency</li>
+                <li>● Developed and maintained backend services for government applications using Python 
+                and Django REST Framework</li>
+                <li>● Architected and deployed a multi-cloud application (AWS & Azure), leveraging Terraform for
+                infrastructure automation, enhancing security and compliance</li>
+                <li>● Built and optimized RESTful APIs, reducing response time through query optimization and
+                caching</li>
+                <li>● Automated infrastructure provisioning and configuration management with Terraform,
+                cutting manual deployment time by 50%</li>
+                <li>● Developed and fine-tuned an LLM-powered chatbot, reducing incident resolution time by
+                60%</li>
+                <li>● Integrated AWS Config with backend systems to enable real-time compliance monitoring</li>
+                <li>● Implemented Elasticsearch for observability, improving debugging and system health
+                analysis</li>
               </ul>
             </div>
 
@@ -60,11 +66,12 @@ function Experience() {
             </div>
               
               <ul className="list-none mt-2 ">
-                <li>● Designed Proof of Concepts (PoCs) leveraging AWS technologies to meet client requirements,
-                successfully demonstrating potential solutions</li>
-                <li>● Designed and presented technical solutions through architectural diagrams and demonstration,
-                effectively communicating complex concepts to stakeholder</li>
-                <li>● Advised end-users on AWS best practices, enhancing system reliability and scalability</li>
+                <li>● Designed Proof of Concepts (PoCs) demonstrating scalable backend architectures using
+                AWS to meet client requirements, successfully demonstrating potential solutions</li>
+                <li>● Designed and presented technical solutions through architectural diagrams and
+                demonstration, effectively communicating complex concepts to stakeholder</li>
+                <li>● Advised end-users on AWS best practices (IAM security, API Gateway, Lambda, ECS, S3,
+                  RDS), enhancing system reliability and scalability</li>
               </ul>
             </div>
 
@@ -75,13 +82,14 @@ function Experience() {
               <span className="text-right">Mar 2020 - Apr 2021</span>
               </div>
               <ul className="list-none mt-2 ">
-                <li>● Designed and implemented Java-based microservices, ensuring high scalability</li>
-                <li>● Collaborated with cross-functional teams to analyze requirements and current software system</li>
-                <li>● Migrated legacy COBOL codebases to modular Java-based microservices, incorporating
+                <li>● Designed and implemented Java microservices, ensuring high scalability</li>
+                <li>● Migrated legacy COBOL codebases into modular Java-based microservices, incorporating
                 enhancements to optimize system performance and reduce inter-service dependencies</li>
                 <li>● Conducted unit testing, debugging, and code reviews to maintain code quality and identify
                 opportunities for optimization</li>
                 <li>● Troubleshoot and resolved software defects and issues</li>
+                <li>● Collaborated with cross-functional teams to analyze requirements and current software
+                system</li>
               </ul>
             </div>
 
@@ -92,14 +100,14 @@ function Experience() {
               <span className="text-right">Mar 2020 - Apr 2021</span>
               </div>
               <ul className="list-none mt-2">
-                <li>● Assisted in the design and implementation of application configuration, collaborating with senior
-                analysts to meet project requirements</li>
-                <li>● Updated requirements based on mined data, ensuring alignment with user expectations, which
-                reduced the need for post-deployment changes</li>
-                <li>● Conducted defect analysis using data mining to identify patterns and areas for additional
-                testing, leading to the early detection of defects and reducing production issues</li>
-                <li>● Expanded test cases using data analysis to improve coverage and ensure robust application
-                performance</li>
+                <li>● Assisted in the design and implementation of backend application logic and configuration,
+                collaborating with senior analysts to meet project requirements</li>
+                <li>● Updated requirements based on mined data, ensuring alignment with user expectations,
+                which reduced the need for post-deployment changes</li>
+                <li>● Conducted defect analysis using data mining techniques to identify patterns and areas for
+                additional testing, leading to the early detection of defects and reducing production issues</li>
+                <li>● Expanded test cases using data analysis to improve coverage and ensure robust
+                application performance</li>
               </ul>
             </div>
           </section>
