@@ -36,7 +36,7 @@ function Experience() {
         {showExperience ? (
           <section className=' text-black'>
             <div className="mb-8 ">
-            <h3 className="text-xl font-bold">Cybersecurity Engineer</h3>
+            <h3 className="text-xl font-bold">Cybersecurity Engineer (Backend Software Engineer)</h3>
             <div className="flex justify-between items-center">
             <span className="text-left">Government Technology Agency</span>
             <span className="text-right">Jan 2022 - Jan 2025</span>

@@ -19,11 +19,14 @@ const Projects = () => {
       .then((data) => {
         // Manually select which repositories to display
         const selectedRepos = data.filter((repo: Repo) => 
-          ["anime-quotes", "spot-checker", ,"resume-suggestion-app","xscape", "notion-widget"].includes(repo.name) 
+          ["hdb-price-analysis","anime-quotes", "spot-checker", ,"resume-suggestion-app","xscape", "notion-widget"].includes(repo.name) 
         ).map((repo: Repo) => {
           // Assign hardcoded tags
           let tags = [];
           switch (repo.name) {
+            case "hdb-price-analysis":
+              tags = [ "FastAPI", "React", "Pandas", "Scikit-learn"];
+              break;
             case "anime-quotes":
               tags = [ "AWS Lambda", "AWS API Gateway", "HTML"];
               break;
